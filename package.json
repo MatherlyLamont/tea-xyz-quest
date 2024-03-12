@@ -1,0 +1,9 @@
+{
+  "name": "@matherlylamont/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Tea Quest",
+  "main": "index.js",
+  "author": "@matherlylamont",
+  "repository": "https://github.com/MatherlyLamont/tea-xyz-quest.git",
+  "license": "ISC"
+}
